@@ -1,3 +1,6 @@
+## Algoritmo genético en Python para encontrar 
+# la cadena de texto "Hello, World!"
+
 import random
 
 # Configuración del algoritmo genético
